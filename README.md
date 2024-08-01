@@ -19,7 +19,7 @@ The text-based interface has additional features that are not in the GUI:
 ## Install
   1. Download the jar file.
   2. Navigate to the folder that contains the jar file in your command-prompt/terminal.
-  3. For the text-based user interface:
+  - For the text-based user interface:
       - Type “java -jar Assignment6.jar -text”, and press enter.
-  For the graphical user interface:
+  - For the graphical user interface:
       - Type "java -jar Assignment6.jar", and press enter.
