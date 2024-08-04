@@ -17,9 +17,11 @@ The text-based interface has additional features that are not in the GUI:
   - Plotting a bar chart that illustrates the performance of a stock/portfolio over a time period.
 
 ## Demos
-Stock Simulation with GUI: ![stockgui](https://github.com/user-attachments/assets/43e9166a-59c0-4afa-b05c-b80a121908e5)
+GUI Stock Simulation: 
+![stockgui](https://github.com/user-attachments/assets/43e9166a-59c0-4afa-b05c-b80a121908e5)
 
-Text-based Stock Simulation: ![stocktext](https://github.com/user-attachments/assets/18683f7f-78e5-4b69-8e3a-046a07f521b5)
+Text-based Stock Simulation: 
+![stocktext](https://github.com/user-attachments/assets/873077c1-da2c-4e22-9c34-a5f0f50da7f3)
 
 ## Install
   1. Download the jar file.
