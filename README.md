@@ -16,6 +16,14 @@ The text-based interface has additional features that are not in the GUI:
   - Rebalancing a portfolio by percentages
   - Plotting a bar chart that illustrates the performance of a stock/portfolio over a time period.
 
+## Demos
+
+GUI: ![stock](https://github.com/user-attachments/assets/552684f7-a18b-4a6e-bcc9-560a83a9cdea)
+
+
+Text-based interface:
+
+
 ## Install
   1. Download the jar file.
   2. Navigate to the folder that contains the jar file in your command-prompt/terminal.
