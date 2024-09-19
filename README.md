@@ -1,5 +1,5 @@
 # stock-simulation
-A stock analysis program to buy/sell stocks in a portfolio and analyze performance with real API stock market data. 
+A stock analysis program to buy/sell stocks in a portfolio and analyze performance with real-time API stock market data. 
 
 This was made in Java for Northeastern's CS3500 Object Oriented Design course. By instructor policy, source code can be accessed only by request.
 
